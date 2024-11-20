@@ -26,3 +26,6 @@ let somenumber =33
 let stringNumber = String(somenumber)
 console.log(stringNumber);
 console.log(typeof stringNumber);
+
+
+console.log("Hello Guys");
